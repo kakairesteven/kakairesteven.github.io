@@ -35,32 +35,35 @@
       institution: Makerere University, Kampala, Uganda
       year: 2023 - Todate
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - This role focused on  in-depth analysis of academic data to glean insights about application, enrollment,
+          academic performance, student dropout, graduation and employability of the University graduates.
+          It required deep analysis of student lifecycle through use of  Probabilistic Programming using PyMC,
+          Machine Learning Models, Visualization, Automation, and integration and deployment of models in
+          various University Information Systems.
+        - title: Key Achievements
+          contents: 
+          - Conducted comprehensive data analysis to model and understand the full student journey, from admission to post-graduation outcomes.
+          - Employed Probabilistic Programming (using PyMC) to model uncertainty and make robust predictions about student behaviors and outcomes.
+          - Developed and implemented machine learning models to identify patterns and trends in student performance and retention.
+          - Designed data visualizations to communicate complex insights to academic and administrative stakeholders.
+          - Automated data pipelines and reporting processes to enhance efficiency and data reliability.
+          - Integrated and deployed predictive models into various University Information Systems, enabling real-time decision-making and operational improvements.
 
     - title: Software Engineer
       institution: Feed The Future, ISSA, Kampala, Uganda
       year: 2023-2025
       description:
-        - Description 1.
-        - Description 2.
+        - title: Roles
+          contents:
+          - Design and Development of data systems.
+          - Implementation of recommendation Systems for Agricultural Farmer Institutions in Uganda.
+          - Design and development of data analysis and visualization dashboards.
+          - Development of Web Content Management System
 
-    - title: Graduate Engineer
+    - title: Graduate Engineer (Data Communication Systems)
       institution: Makerere University, Kampala, Uganda.
-      year: 2020-2022
+      year: 2021-2022
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
@@ -68,6 +71,14 @@
     - title: <a href="https://github.com/PydataKampala-Open-Source/Uganda-Data">Uganda Data Project</a>
       year: 2024-now
       description: This project seeks to create clean, accessible, reproducible and standardized Uganda datasets across key sectors of education, agriculture, health, governance, trade, transportation, etc..
+
+    - title: <a href="https://github.com/numpy/numpy">NumPy</a>
+      year: 2025-now
+      description: NumPy is the fundamental package for scientific computing with Python.
+        
+    - title: <a href="https://github.com/scikit-learn/scikit-learn">Scikit-learn</a>
+      year: 2025-now
+      description: scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
 
 - title: Honors and Awards
   type: time_table
