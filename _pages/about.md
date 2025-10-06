@@ -32,4 +32,4 @@ latest_posts:
 
 Hello there, I am Kakaire Steven, a Machine Learning and Software Engineer working at the intersection of Machine Learning and Software Engineering.
 
-I am currently building Machine Learning tools for Software Security Engineering. 
+I am currently building Machine Learning tools that improve Software Engineering processes.

@@ -15,18 +15,25 @@
       institution: Makerere University, Kampala, Uganda
       year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Specialized in Software Engineering with a focus on Machine Learning applications for Software Engineering.
+        - title: Specialities
+          contents: 
+          - Advanced Software Engineering
+          - Software Quality Assurance and Testing
+          - Software Architecture and Security
+          - Formal Methods in Software Engineering
+          - Machine Learning for Software Engineering
+      description:
+        - title: Research Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+          - Automated Repair of Security Vulnerabilities in Python Source Code
+        
     - title: Bsc Computer Engineering
       institution: Makerere University, Kampala, Uganda
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Studied core Computer Engineering courses including Digital Logic Design, Microprocessors, Embedded Systems, Computer Architecture, Computer Networks, and Software Development.
+        - Carried out research in Automatic Evaluation of Handwritten Mathematical Solutions using Convolutional Neural Networks.
 
 - title: Experience
   type: time_table
