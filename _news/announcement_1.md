@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2016-08-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Admitted to Makerere University, College of Engineering, Design, Art and Technology on Bachelors of Science in Computer Engineering on goverment sponsorship.

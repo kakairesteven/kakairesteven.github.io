@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+# title: A long announcement with details
+date: 2022-10-01 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Admitted to a postgraduate degree of Msc. Data Communication and Software Engineering, majoring in Machine Learning and Software Engineering.
