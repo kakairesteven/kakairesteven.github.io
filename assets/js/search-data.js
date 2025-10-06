@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Download CV 👉",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -475,8 +475,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/psychology_of_money/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
+            },},{id: "books-the-common-rule",
+          title: 'The Common Rule',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_common_rule/";
