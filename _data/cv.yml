@@ -4,7 +4,7 @@
     - name: Full Name
       value: Steven Kakaire
     - name: Date of Birth
-      value: 14th March 1879
+      value: 14th July
     - name: Languages
       value: English
 
@@ -66,7 +66,7 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/PydataKampala-Open-Source/Uganda-Data">Uganda Data Project</a>
-      year: 2015-now
+      year: 2024-now
       description: This project seeks to create clean, accessible, reproducible and standardized Uganda datasets across key sectors of education, agriculture, health, governance, trade, transportation, etc..
 
 - title: Honors and Awards
