@@ -5,8 +5,12 @@
       value: Steven Kakaire
     - name: Date of Birth
       value: 14th July
-    - name: Languages
-      value: English
+    - name: Profession
+      value: A Machine Learning and Software Engineer building ML tools for Software Engineering.
+    - name: Tel\:
+      value: +256 778 169 746
+    - name: Email\:
+      value: steven[dot]kakaire[at]mak[dot]ac[dot]ug
 
 - title: Education
   type: time_table
