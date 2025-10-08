@@ -3,14 +3,14 @@
   contents:
     - name: Full Name
       value: Steven Kakaire
-    - name: Date of Birth
-      value: 14th July
     - name: Profession
       value: A Machine Learning and Software Engineer building ML tools for Software Engineering.
     - name: Tel
       value: +256 778 169 746
     - name: Email
       value: steven[dot]kakaire[at]mak[dot]ac[dot]ug
+    - name: Affiliation
+      value: Makerere University
 
 - title: Education
   type: time_table
@@ -18,15 +18,15 @@
     - title: Msc Data Communication and Software Engineering
       institution: Makerere University, Kampala, Uganda
       year: 2025
+
       description:
-        - Specialized in Software Engineering with a focus on Machine Learning applications for Software Engineering.
         - title: Specialities
           contents: 
-          - Advanced Software Engineering
-          - Software Quality Assurance and Testing
-          - Software Architecture and Security
-          - Formal Methods in Software Engineering
-          - Machine Learning for Software Engineering
+            - Advanced Software Engineering
+            - Software Quality Assurance and Testing
+            - Software Architecture and Security
+            - Formal Methods in Software Engineering
+            - Machine Learning for Software Engineering
       description:
         - title: Research Thesis
           contents:
@@ -44,7 +44,7 @@
   contents:
     - title: Data Scientist
       institution: Makerere University, Kampala, Uganda
-      year: 2023 - Todate
+      year: 2021 - Todate
       description:
         - This role focused on  in-depth analysis of academic data to glean insights about application, enrollment,
           academic performance, student dropout, graduation and employability of the University graduates.
@@ -96,20 +96,22 @@
   contents:
     - year: 2024
       items:
-        - NumHack Award for Best Data Science Project
-        - NumFocus
-    - year: 2023
+        - NumHack Award for Best Data Science Project in the Analyze category
+    - year: 2024
       items:
         - Lighting AI Prize for Best Analytics Project, NumHack
 
-- title: Research Interests
+- title: Specialities
   type: nested_list
   contents:
     - title: Machine Learning application for Software Engineering.
       items:
         - Applying Machine Learning to develop productivity tools for Software Engineers.
-        - Such applications include automatic repair of vulnerabilities in source code, automaticd code generation, LLM for software testing.
-    
+        - Such applications include automatic repair of vulnerabilities in source code, automatic code generation, LLM for software testing.
+    - title: Programming Languages
+      items:
+        - Python
+        - C
     - title: Machine Learning.
       items:
         - PyTorch
@@ -119,6 +121,38 @@
       items:
         - Developing and improving tools for scientific computing.
         - Of greater interest are tools in the PyData ecosystem specifically NumPy and Scikit-learn
+
+- title: Service and Volunteership 
+  type: time_table
+  contents:
+    - year: 2024 - Todate
+      description:
+        - title: Member, NumFocus Security Committe.
+          contents: The Security Committee is responsible for overseeing the security of NumFocus's projects and infrastructure, including responding to security incidents and vulnerabilities.  
+    - year: 2024 - Todate
+      description:
+        - title: Director at Python Software Society of Uganda, PSSU.
+          contents:
+          - PSSU organizes the largest tech Python conference annually in Uganda.
+    - year: 2024 - Todate
+      description:
+        - title: Organizer, PyData Kampala.
+          contents:
+          - PyData Kampala is a local chapter of PyData, a global community for developers. 
+            It is a an open and welcoming community of professionals and ethusiasts in data, science and engineering that
+            meet regualarly to discuss and share latest advances in data acquisition, storage, processing, manipulaton, vidualization, modeling, accessibility  and application.
+    - year: 2022 - Date
+      description:
+        - title: Cell Leader, St. Francis Chapel, Makerere University
+          contents:
+          - Lead a small group of fellow christians in weekly fellowship meetings.
+
+    - year: 2019 - Date
+      description:
+        - title: Guest Editor, The Daily Monitor Publication
+          contents:
+          - Author articles on topical issues ranging from education to technology to sociology for both print and online readership.
+
 - title: Other Interests
   type: list
   contents:

@@ -1,9 +1,9 @@
 ---
 layout: post
 # title: A long announcement with details
-date: 2022-10-01 00:00:00-0000
+date: 2023-01-01 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-Admitted to a postgraduate degree of Msc. Data Communication and Software Engineering, majoring in Machine Learning and Software Engineering.
+Started a new role as Data Scientist at Makerere University

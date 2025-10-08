@@ -2,7 +2,7 @@
 layout: book-review
 title: The Common Rule
 author:  Justin Whitmel Earley
-# cover: assets/img/book_covers/the_godfather.jpg
+cover: assets/img/book_covers/the_godfather.jpg
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 978-0369365712 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Christianity, Self-Improvement
