@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -495,17 +495,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/thinking_fast_and_slow/";
-            },},{id: "news-admitted-to-makerere-university-college-of-engineering-design-art-and-technology-on-bachelors-of-science-in-computer-engineering-on-goverment-sponsorship",
+            },},{id: "news-admitted-to-makerere-university-college-of-engineering-design-art-and-technology-on-bachelors-of-science-in-computer-engineering-on-government-sponsorship",
           title: 'Admitted to Makerere University, College of Engineering, Design, Art and Technology on Bachelors...',
           description: "",
-          section: "News",},{id: "news-graduated-with-an-honors-degree-of-bachelors-of-science-in-computer-engineering",
-          title: 'Graduated with an Honors Degree of Bachelors of Science in Computer Engineering.',
+          section: "News",},{id: "news-started-new-role-as-graduate-engineer-at-the-directorate-for-ict-support-makerere-university",
+          title: 'Started new role as graduate engineer at the Directorate for ICT Support, Makerere...',
           description: "",
-          section: "News",},{id: "news-admitted-to-a-postgraduate-degree-of-msc-data-communication-and-software-engineering-majoring-in-machine-learning-and-software-engineering",
-          title: 'Admitted to a postgraduate degree of Msc. Data Communication and Software Engineering, majoring...',
+          section: "News",},{id: "news-graduated-with-an-honors-degree-of-bachelors-of-science-in-computer-engineering-makerere-university",
+          title: 'Graduated with an Honors Degree of Bachelors of Science in Computer Engineering, Makerere...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "news-admitted-to-a-postgraduate-program-of-msc-data-communication-and-software-engineering-majoring-in-machine-learning-and-software-engineering",
+          title: 'Admitted to a postgraduate program of Msc. Data Communication and Software Engineering, majoring...',
+          description: "",
+          section: "News",},{id: "news-started-a-new-role-as-data-scientist-at-makerere-university",
+          title: 'Started a new role as Data Scientist at Makerere University',
+          description: "",
+          section: "News",},{id: "news-started-new-role-as-a-software-engineer-at-usaid-feed-the-future-issa-uganda",
+          title: 'Started new role as a Software Engineer at USAID Feed The Future ISSA,...',
+          description: "",
+          section: "News",},{id: "projects-uganda-data-project",
+          title: 'Uganda Data Project',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -554,35 +563,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%73%74%65%76%65%6E.%6B%61%6B%61%69%72%65@%6D%61%6B.%61%63.%75%67", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/kakairesteven", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://twitter.com/KakaireSteven", "_blank");
         },
       },{
       id: 'light-theme',
