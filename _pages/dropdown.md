@@ -1,14 +1,13 @@
 ---
 layout: page
-title: books
+title: Books
 nav: true
 nav_order: 8
-# dropdown: true
-permalink: /books/
+dropdown: true
 children:
   - title: bookshelf
     permalink: /books/
-  - title: divider
+  # - title: divider
   # - title: blog
   #   permalink: /blog/
 ---
