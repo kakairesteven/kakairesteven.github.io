@@ -441,6 +441,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/learning_mysql/";
+            },},{id: "books-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow",
+          title: 'Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/machine_learning_with_scikitlearn/";
             },},{id: "books-the-psychology-of-money",
           title: 'The Psychology of Money',
           description: "",
