@@ -40,4 +40,4 @@ I studied Bsc. Computer Engineering, Makerere University.
 
 I am currently building Machine Learning tools that improve Software Engineering processes.
 
-Away from work, I spend my free time turning pages of awesome books. Checkout the books I have read.
+Away from work, I spend my free time turning pages of awesome books. Checkout the <a href="https://kakairesteven.github.io/books/">books</a> I have read.
