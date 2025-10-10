@@ -32,4 +32,12 @@ latest_posts:
 
 Hello there, I am Kakaire Steven, a Machine Learning and Software Engineer working at the intersection of Machine Learning and Software Engineering.
 
+I am a candidate of Msc. Data Communication and Software Engineering, Makerere University specializing in Machine Learning for Software Engineering. I am advised by Prof. <a href="https://ug.linkedin.com/in/benjamin-kanagwa-a135b313">Benjamin Kanagwa</a> and <a href="se.linkedin.com/in/rashidah-kasauli-05152419">Dr. Rashidah Kasauli</a>.
+
+I've worked as a Machine Learning and Software Engineer at Makerere University since 2021 that is why I know something about scientific computing, software quality, security and architecture. I am currently and actively contributing to scikitlearn and numpy.
+
+I studied Bsc. Computer Engineering, Makerere University. 
+
 I am currently building Machine Learning tools that improve Software Engineering processes.
+
+Away from work, I spend my free time turning pages of awesome books. Checkout the books I have read.
