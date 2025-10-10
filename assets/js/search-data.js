@@ -448,6 +448,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/psychology_of_money/";
+            },},{id: "books-python-for-data-analysis",
+          title: 'Python for Data Analysis',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/python_for_data_science/";
             },},{id: "books-the-infinite-game",
           title: 'The Infinite Game',
           description: "",
