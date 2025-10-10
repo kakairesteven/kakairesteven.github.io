@@ -400,6 +400,11 @@ ninja.data = [{
           title: 'The Compound Effect',
           description: "",
           section: "Books",handler: () => {
+              window.location.href = "/books/compound_effect%20copy/";
+            },},{id: "books-the-compound-effect",
+          title: 'The Compound Effect',
+          description: "",
+          section: "Books",handler: () => {
               window.location.href = "/books/compound_effect/";
             },},{id: "books-counterfeit-gods",
           title: 'Counterfeit Gods',
