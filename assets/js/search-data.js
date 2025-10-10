@@ -428,6 +428,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ego_is_the_enemy/";
+            },},{id: "books-essential-math-for-data-science",
+          title: 'Essential Math for Data Science',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/essential_math_for_data_science/";
             },},{id: "books-flask-web-development",
           title: 'Flask Web Development',
           description: "",
