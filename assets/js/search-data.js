@@ -408,16 +408,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/counterfeit_gods/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
+            },},{id: "books-ego-is-the-enemy",
+          title: 'Ego is the Enemy',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ego_is_the_enemy/";
-            },},{id: "books-essential-math-for-data-science",
-          title: 'Essential Math for Data Science',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/essential_math_for_dataScience/";
             },},{id: "books-fluent-python",
           title: 'Fluent Python',
           description: "",
@@ -433,16 +428,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/psychology_of_money/";
-            },},{id: "books-the-common-rule",
-          title: 'The Common Rule',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_common_rule/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
             },},{id: "books-the-infinite-game",
           title: 'The Infinite Game',
           description: "",
