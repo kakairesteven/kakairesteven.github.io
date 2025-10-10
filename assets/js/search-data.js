@@ -393,7 +393,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-atomic-habits",
+      },{id: "books-introduction-to-programming-using-python",
+          title: 'Introduction to Programming Using Python',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Introduction_to_programming/";
+            },},{id: "books-atomic-habits",
           title: 'Atomic Habits',
           description: "",
           section: "Books",handler: () => {
@@ -408,11 +413,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/counterfeit_gods/";
+            },},{id: "books-css-in-depth",
+          title: 'CSS in Depth',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/css_in_depth/";
+            },},{id: "books-deep-learning-for-vision-systems",
+          title: 'Deep Learning for Vision Systems',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/deep_learning_for_computer_vision/";
             },},{id: "books-ego-is-the-enemy",
           title: 'Ego is the Enemy',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ego_is_the_enemy/";
+            },},{id: "books-flask-web-development",
+          title: 'Flask Web Development',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/flask/";
             },},{id: "books-fluent-python",
           title: 'Fluent Python',
           description: "",
