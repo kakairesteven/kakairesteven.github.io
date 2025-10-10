@@ -7,9 +7,9 @@ author: Daniel Kahneman
 isbn: 978-0374533557 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Decision-Making & Problem Solving
 # tags: top-100
-buy_link: https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555#
-started: 2024-01-01
-finished: 2024-01-31
+# buy_link: https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555#
+# started: 2024-01-01
+# finished: 2024-01-31
 released: 2013
 # stars: 5
 # goodreads_review: 6318556633

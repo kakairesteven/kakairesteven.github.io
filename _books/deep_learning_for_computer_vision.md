@@ -2,12 +2,12 @@
 layout: book-review
 title: Deep Learning for Vision Systems
 author: Mohamed Elgendy 
-# cover: assets/img/book_covers/the_godfather.jpg
+cover: assets/img/book_covers/deep_learning_for_computer_vision.jpg
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 978-1617296192 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Machine Learning
 # tags: top-100
-buy_link: https://www.amazon.com/Learning-Vision-Systems-Mohamed-Elgendy/dp/1617296198/ref=sr_1_13?crid=3105CEUTRJPGQ&dib=eyJ2IjoiMSJ9.zCsreI20lLzDABzM8NACxT8R5wNpAHyn8yoWcRFAhU-tUq0xiymPnFAgbPgRQ0DqjlYB6PkeYzHbN0zLi5DsIos1MmO6pNNjuB9tycVSBYil2DCST0cDrrEEDYYGjNQp1ZUoYSYSMw-tdYJwZDHS3rUgmcHAqFVIjnKrHqFU-6Wt9jayimQcDM3GA0qSs-R8CNnii2ScGS0wc7LgQS94JYVV5cDtcsB7HIcbbQVY7N8.40gzMJXtmwvNE9j1ZQ5xboZYqJe0txMkNMVfB7b8Byk&dib_tag=se&keywords=deep+learning+for+computer+vision&qid=1760081248&s=books&sprefix=deep+learning+for+computer+visio%2Cstripbooks-intl-ship%2C331&sr=1-13
+# buy_link: https://www.amazon.com/Learning-Vision-Systems-Mohamed-Elgendy/dp/1617296198/ref=sr_1_13?crid=3105CEUTRJPGQ&dib=eyJ2IjoiMSJ9.zCsreI20lLzDABzM8NACxT8R5wNpAHyn8yoWcRFAhU-tUq0xiymPnFAgbPgRQ0DqjlYB6PkeYzHbN0zLi5DsIos1MmO6pNNjuB9tycVSBYil2DCST0cDrrEEDYYGjNQp1ZUoYSYSMw-tdYJwZDHS3rUgmcHAqFVIjnKrHqFU-6Wt9jayimQcDM3GA0qSs-R8CNnii2ScGS0wc7LgQS94JYVV5cDtcsB7HIcbbQVY7N8.40gzMJXtmwvNE9j1ZQ5xboZYqJe0txMkNMVfB7b8Byk&dib_tag=se&keywords=deep+learning+for+computer+vision&qid=1760081248&s=books&sprefix=deep+learning+for+computer+visio%2Cstripbooks-intl-ship%2C331&sr=1-13
 # started: 2024-01-01
 # finished: 2024-01-31
 released: 2020

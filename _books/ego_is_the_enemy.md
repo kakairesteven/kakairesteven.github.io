@@ -7,7 +7,7 @@ author: Ryan Holiday
 isbn: 978-1591847816 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics crime historical-fiction mystery novels thriller
 tags: top-100
-buy_link: https://www.goodreads.com/book/show/27036528-ego-is-the-enemy
+# buy_link: https://www.goodreads.com/book/show/27036528-ego-is-the-enemy
 # started: 2023-01-01
 # finished: 2024-09-07
 released: 2016

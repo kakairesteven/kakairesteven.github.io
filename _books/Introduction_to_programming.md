@@ -1,8 +1,8 @@
 ---
 layout: book-review
 title: Introduction to Programming Using Python
-author: Miguel Grinberg
-# cover: assets/img/book_covers/the_godfather.jpg
+author: Y. Liang 
+cover: assets/img/book_covers/introduction_to_programming_using_python.jpg
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 978-0132747189 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Technology

@@ -7,9 +7,9 @@ author:  Luciano Ramalho
 isbn: 978-1492056355 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Python Programming
 # tags: top-100
-buy_link: https://www.amazon.com/s?k=fluent+python&i=stripbooks-intl-ship&crid=1DT74OUN8251X&sprefix=fluent+python%2Cstripbooks-intl-ship%2C416&ref=nb_sb_noss_1
-started: 2025-06-01
-finished: 2025-10-01
+# buy_link: https://www.amazon.com/s?k=fluent+python&i=stripbooks-intl-ship&crid=1DT74OUN8251X&sprefix=fluent+python%2Cstripbooks-intl-ship%2C416&ref=nb_sb_noss_1
+# started: 2025-06-01
+# finished: 2025-10-01
 released: 2022
 # stars: 5
 # goodreads_review: 6318556633

@@ -1,16 +1,16 @@
 ---
 layout: book-review
-title: CSS in Depth
-author: Keith J. Grant 
-cover: assets/img/book_covers/css_in_depth.jpg
+title: Python for Data Analysis
+author: Wes McKinney
+cover: assets/img/book_covers/python_for_data_science.jpg
 # olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 978-1633437555 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: Web Development
+isbn: 978-1098104030 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+categories: Data Science
 tags: top-100
-# buy_link: https://www.amazon.com/CSS-Depth-Second-Keith-Grant/dp/1633437558#
+# buy_link: https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1?crid=3OOTIN4EJ83KK&dib=eyJ2IjoiMSJ9.cD-M-12veRgt054tFPjfL_XMQptaUELoYNxvN_vD67zV85QKcJ1XIy1HBSiKBsoKvobymeDQWP5x-23qFeto8ErSnIjMah9JaRgeWKj7XZVpdij21E59XHdRhvHI4y8pMGOWRFsvkxEwJA85ATszl-aeGVUmexIoPl8YpjOKYkXFNEmfsufdi6eqcjKBBJ2lSC4UprVLg7_qE5xZ36vCR8w5qt8keCcZHc9YYgMrELU.gs0CHvcPx-vZElywSb9pvFWjTJKJYPVgyofgS673WvI&dib_tag=se&keywords=python+for+data+science&qid=1760083366&s=books&sprefix=python+for+data+sceine%2Cstripbooks-intl-ship%2C318&sr=1-1
 # started: 2024-01-01
 # finished: 2024-05-31
-released: 2024
+# released: 2021
 # stars: 5
 # goodreads_review: 6318556633
 status: Finished
