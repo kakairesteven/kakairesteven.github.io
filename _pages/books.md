@@ -11,4 +11,4 @@ collection: books
 >
 > ― Daniel Kahneman, Thinking, Fast and Slow (2011) 
 
-## Books that I've authored, I am reading, have read, or will read.
+## Books that I've authored, am reading, have read, or will read.
