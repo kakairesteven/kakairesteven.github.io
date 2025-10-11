@@ -84,17 +84,17 @@
       description: This project seeks to create clean, accessible, reproducible and standardized Uganda datasets across key sectors of education, agriculture, health, governance, trade, transportation, etc..
 
     - title: <a href="https://github.com/numpy/numpy">NumPy</a>
-      year: 2025-now
+      year: 2025 - Todate
       description: NumPy is the fundamental package for scientific computing with Python.
         
     - title: <a href="https://github.com/scikit-learn/scikit-learn">Scikit-learn</a>
-      year: 2025-now
+      year: 2025 - Todate
       description: scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2024
+    - year: 2024 
       items:
         - NumHack Award for Best Data Science Project in the Analyze category
     - year: 2024
@@ -141,7 +141,7 @@
           - PyData Kampala is a local chapter of PyData, a global community for developers. 
             It is a an open and welcoming community of professionals and ethusiasts in data, science and engineering that
             meet regualarly to discuss and share latest advances in data acquisition, storage, processing, manipulaton, vidualization, modeling, accessibility  and application.
-    - year: 2022 - Date
+    - year: 2022 - Todate
       description:
         - title: Cell Leader, St. Francis Chapel, Makerere University
           contents:
