@@ -38,6 +38,6 @@ I've worked as a Machine Learning and Software Engineer at Makerere University s
 
 I studied Bsc. Computer Engineering, Makerere University. 
 
-I am currently building Machine Learning tools that improve Software Engineering processes and building data models for higher education quality assurance.
+I am currently building (1) Machine Learning tools that improve Software Engineering processes and (2) data models for higher education quality assurance.
 
 Away from work, I spend my free time turning pages of awesome books. Checkout the <a href="https://kakairesteven.github.io/books/">books</a> I have read.
