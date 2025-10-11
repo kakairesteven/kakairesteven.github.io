@@ -80,7 +80,7 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/PydataKampala-Open-Source/Uganda-Data">Uganda Data Project</a>
-      year: 2024-now
+      year: 2024 - Todate
       description: This project seeks to create clean, accessible, reproducible and standardized Uganda datasets across key sectors of education, agriculture, health, governance, trade, transportation, etc..
 
     - title: <a href="https://github.com/numpy/numpy">NumPy</a>
