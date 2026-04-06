@@ -44,7 +44,7 @@
   contents:
     - title: Data Scientist
       institution: Makerere University, Kampala, Uganda
-      year: 2021 - Todate
+      year: 2024 - Todate
       description:
         - This role focused on  in-depth analysis of academic data to glean insights about application, enrollment,
           academic performance, student dropout, graduation and employability of the University graduates.
@@ -58,7 +58,7 @@
           - Developed and implemented machine learning models to identify patterns and trends in student performance and retention.
           - Designed data visualizations to communicate complex insights to academic and administrative stakeholders.
           - Automated data pipelines and reporting processes to enhance efficiency and data reliability.
-          - Integrated and deployed predictive models into various University Information Systems, enabling real-time decision-making and operational improvements.
+          - Tools; Pandas, Polars, Scikitlearn, Statsmodels, NumPy, SciPy, Matplotlib, Plotnine, Seaborn, ggplot, Jupyter, MySQL, Python, R, Flask, CSS, HTML, Quarto, GreatTables, PyGeometric, 
 
     - title: Software Engineer
       institution: Feed The Future, ISSA, Kampala, Uganda
@@ -79,10 +79,6 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/PydataKampala-Open-Source/Uganda-Data">Uganda Data Project</a>
-      year: 2024 - Todate
-      description: This project seeks to create clean, accessible, reproducible and standardized Uganda datasets across key sectors of education, agriculture, health, governance, trade, transportation, etc..
-
     - title: <a href="https://github.com/numpy/numpy">NumPy</a>
       year: 2025 - Todate
       description: NumPy is the fundamental package for scientific computing with Python.
@@ -119,7 +115,7 @@
     
     - title: Scientific Computing.
       items:
-        - Developing and improving tools for scientific computing.
+        - Developing and improving tools for Scientific Computing.
         - Of greater interest are tools in the PyData ecosystem specifically NumPy and Scikit-learn
 
 - title: Service and Volunteership 
