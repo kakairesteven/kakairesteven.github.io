@@ -386,11 +386,21 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-introduction-to-programming-using-python",
+      },{id: "books-graph-neural-networks-in-action",
+          title: 'Graph Neural Networks in Action',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/GNN/";
+            },},{id: "books-introduction-to-programming-using-python",
           title: 'Introduction to Programming Using Python',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Introduction_to_programming/";
+            },},{id: "books-thinking-in-systems-a-primer",
+          title: 'Thinking in Systems. A Primer',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/SystemsThinking/";
             },},{id: "books-atomic-habits",
           title: 'Atomic Habits',
           description: "",
@@ -436,6 +446,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/fluent_python/";
+            },},{id: "books-learning-systems-thinking-essential-nonlinear-skills-and-practices-for-software-professionals",
+          title: 'Learning Systems Thinking. Essential Nonlinear Skills and Practices for Software Professionals',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/learningSystemsThinking/";
             },},{id: "books-learning-mysql",
           title: 'Learning MySQL',
           description: "",
@@ -446,6 +461,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/machine_learning_with_scikitlearn/";
+            },},{id: "books-python-polars-the-definitive-guide-transforming-analyzing-and-visualizing-data-with-a-fast-and-expressive-dataframe-api",
+          title: 'Python Polars. The Definitive Guide. Transforming, Analyzing, and Visualizing Data with a Fast...',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/polars/";
             },},{id: "books-the-psychology-of-money",
           title: 'The Psychology of Money',
           description: "",
@@ -456,6 +476,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/python_for_data_science/";
+            },},{id: "books-the-common-rule-habits-of-purpose-for-an-age-of-distraction",
+          title: 'The Common Rule. Habits of Purpose for an Age of Distraction',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/theCommonRule/";
             },},{id: "books-the-infinite-game",
           title: 'The Infinite Game',
           description: "",
