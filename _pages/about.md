@@ -32,10 +32,11 @@ latest_posts:
 
 Hello there, I am Kakaire Steven, a Machine Learning and Software Engineer working at the intersection of Machine Learning and Software Engineering.
 
-I am a candidate of Msc. Data Communication and Software Engineering, Makerere University specializing in Machine Learning for Software Engineering. I am advised by Prof. <a href="https://ug.linkedin.com/in/benjamin-kanagwa-a135b313">Benjamin Kanagwa</a> and <a href="se.linkedin.com/in/rashidah-kasauli-05152419">Dr. Rashidah Kasauli</a>. I studied Bsc. Computer Engineering, Makerere University. 
+I am graduate of Msc. Data Communication and Software Engineering, and Bsc. Computer Engineering, Makerere University specializing in Machine Learning for Software Engineering. I was advised by Prof. <a href="https://ug.linkedin.com/in/benjamin-kanagwa-a135b313">Benjamin Kanagwa</a> and <a href="se.linkedin.com/in/rashidah-kasauli-05152419">Dr. Rashidah Kasauli</a>.
 
-I've worked as a Machine Learning and Software Engineer at Makerere University since 2021 that is why I know something about scientific computing, software quality, security and architecture. I am currently and actively contributing to scikitlearn and numpy.
+I am a Machine Learning and Software Engineer with industry-demonstrated experience in building customer-facing solutions to real-world problems. 
 
-I am currently building Machine Learning tools that improve Software Engineering processes.
+I am currently studying, researching and building Machine Learning for Software Engineering (ML4SE). I am an Open Source Contributor, currently contributing to Python Numerical Computing and Machine Learning (NumPy and Scikit-learn). I am an organizer of regular meetups about Open Source, Data and Scientific Computing at <a href="https://x.com/PydataKampala">PyData Kampala</a>.
 
-Away from work, I spend my free time contributing to open source or turning pages of awesome books. Checkout the <a href="https://kakairesteven.github.io/books/">books</a> I've authored, read, am reading or will read.
+
+Away from work, I am a Church Minister at <a href="https://stfrancischapelmakerere.org/">St. Francis Chapel</a>, Makerere University, a reader and writer of great books. Checkout the <a href="https://kakairesteven.github.io/books/">books</a> I've authored, read, am reading or will read.
