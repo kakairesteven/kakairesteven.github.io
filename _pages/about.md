@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https:\\www.mak.ac.ug'>Affiliations</a>. Makerere University.
+subtitle: <a href='https:\\www.mak.ac.ug'>Affiliations</a>. Marconi Lab, Makerere University.
 profile:
   align: right
   image: prof_pic.png
@@ -34,6 +34,6 @@ Hello there, I am Steven Kakaire, a Machine Learning and Software Engineer worki
 
 I am graduate of Msc. Data Communication and Software Engineering, and Bsc. Computer Engineering, Makerere University specializing in Machine Learning for Software Engineering, Machine Learning and Data Processing. I was advised by Prof. <a href="https://ug.linkedin.com/in/benjamin-kanagwa-a135b313">Benjamin Kanagwa</a> and <a href="se.linkedin.com/in/rashidah-kasauli-05152419">Dr. Rashidah Kasauli</a>. 
 
-I am currently researching and building solutions for Machine Learning for Software Engineering (ML4SE), Data Processing and Machine Learning. I am an Open Source Contributor, currently contributing to Python Numerical Computing and Machine Learning. I am an organizer of regular meetups about Open Source, Data and Scientific Computing at <a href="https://x.com/PydataKampala">PyData Kampala</a>.
+I am currently researching and building solutions for Machine Learning for Software Engineering (ML4SE), Data Processing, Intensive data systems, and Machine Learning Systems engineering. I am an Open Source Contributor, currently contributing to Python Numerical Computing and Machine Learning. I am an organizer of regular meetups about Open Source, Data and Scientific Computing at <a href="https://x.com/PydataKampala">PyData Kampala</a>.
 
-Away from work, I am a part of a small Christian group and a church minister at <a href="https://stfrancischapelmakerere.org/">St. Francis Chapel</a>, Makerere University, a reader and writer of books. Checkout the <a href="https://kakairesteven.github.io/books/">books</a> I've authored, read, am reading or will read.
+Away from work, I am a part of a small Christian group, a church minister at <a href="https://stfrancischapelmakerere.org/">St. Francis Chapel Makerere University</a>, reader and writer of books. Fun fact, I am a moonlighting poet. 
