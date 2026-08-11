@@ -477,22 +477,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/thinking_fast_and_slow/";
-            },},{id: "news-admitted-to-makerere-university-college-of-engineering-design-art-and-technology-on-bachelors-of-science-in-computer-engineering-on-government-sponsorship",
-          title: 'Admitted to Makerere University, College of Engineering, Design, Art and Technology on Bachelors...',
-          description: "",
-          section: "News",},{id: "news-graduated-with-an-honors-degree-of-bachelors-of-science-in-computer-engineering-makerere-university",
-          title: 'Graduated with an Honors Degree of Bachelors of Science in Computer Engineering, Makerere...',
-          description: "",
-          section: "News",},{id: "news-started-new-role-as-graduate-engineer-at-the-directorate-for-ict-support-makerere-university",
-          title: 'Started new role as graduate engineer at the Directorate for ICT Support, Makerere...',
-          description: "",
-          section: "News",},{id: "news-started-a-new-role-as-data-scientist-at-makerere-university",
-          title: 'Started a new role as Data Scientist at Makerere University',
-          description: "",
-          section: "News",},{id: "news-admitted-to-a-postgraduate-program-of-msc-data-communication-and-software-engineering-majoring-in-machine-learning-and-software-engineering",
-          title: 'Admitted to a postgraduate program of Msc. Data Communication and Software Engineering, majoring...',
-          description: "",
-          section: "News",},{id: "projects-uganda-data-project",
+            },},{id: "projects-uganda-data-project",
           title: 'Uganda Data Project',
           description: "with background image",
           section: "Projects",handler: () => {
