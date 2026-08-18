@@ -36,4 +36,4 @@ I am graduate of Msc. Data Communication and Software Engineering, and Bsc. Comp
 
 I am currently researching and building solutions for Machine Learning for Software Engineering (ML4SE), Data Processing, Intensive data systems, and Machine Learning Systems. I am an Open Source Contributor, currently contributing to Python Numerical Computing and Machine Learning. I am an organizer of regular meetups about Open Source, Data and Scientific Computing at <a href="https://x.com/PydataKampala">PyData Kampala</a>.
 
-Away from work, I am a part of a small Christian group, a church minister at <a href="https://stfrancischapelmakerere.org/">St. Francis Chapel Makerere University</a>.
+Away from work, I am a part of a small Christian group and a church minister at <a href="https://stfrancischapelmakerere.org/">St. Francis Chapel Makerere University</a>.
